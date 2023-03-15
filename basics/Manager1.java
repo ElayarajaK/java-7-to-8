@@ -8,6 +8,7 @@ public class Manager1 {
         System.out.println("10 + 10");
         System.out.println(10+10);//addition (+)
         System.out.println(10*10);
+        System.out.println(1000);
         System.out.println(10/10);
         System.out.println(10%10);
         System.out.println(10-10);
