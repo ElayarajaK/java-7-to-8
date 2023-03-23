@@ -18,3 +18,12 @@ public class Manager1 {
     }
     
 }
+
+
+product manager ruthwik reviewer nagaraju artist suswanita and sirisha
+
+product manger: Chandra Shekhar reviwer:sai prasad artist:farook and sarvagna
+
+Sandeep -product manager
+Jyothsna - reviewer
+Gowthami-Artist
